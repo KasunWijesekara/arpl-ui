@@ -1,0 +1,191 @@
+    /**** ============================= ****
+        CSS FILE FOR ARPL
+    
+                12.09.2016 
+        ============================= 
+    Author - Kasun Wijesekara @Ghost0047 
+        ============================= 
+            
+TWC INNOVATIONS PVT LTD - twcinnovations.com
+
+    *** ============================= *****/
+body {
+    background: #FBFBFB;
+}
+/*Header and Menu CSS*/
+
+.pushable>.pusher.dimmed:after {
+    opacity: 0!important;
+}
+#map {
+        height: 400px;
+        width: 100%;
+}
+.ui.secondary.menu {
+    background-color: #E8E8F0;
+}
+#sidebartext i{
+    float: right;
+    margin-top: 35%;
+    margin-bottom: 20%;
+    color: #D4D4E1;
+}
+#sidebartext {
+    color: #D4D4E1!important;
+}
+#sidebartext .inline.fields {
+    margin: 5px!important;
+    color: #75757C!important;
+}
+#sidebartext .nine.wide.column {
+    margin-top:1%;
+    color: #D4D4E1;
+}
+.ui.header {
+    color: #8D8D8D;
+    margin-left: 10px!important;
+}
+.ui.header.redtxt {
+    color: #EF5F48;
+    margin-left: 70px!important;
+}
+.ui.form .field>label {
+    font-weight: 300;
+}
+.ui.header.blacktxt {
+    color:#66666D;
+}
+
+.ui.table thead th {
+    color: #868686;
+}
+.ui.table {
+    color: #8F8F8F;
+}
+.selectable a {
+    padding: 1.5em!important;
+}
+.selectable .ui.linkz {
+    padding: .5833em .833em!important;
+    margin-left: 25px!important;
+    margin-right: 10px!important;
+
+}
+#m_btn {
+    background-color: #3C3C40!important;
+    border-radius: 0px;
+}
+.ui.inverted.menu{
+    background-color: #3C3C40;
+}
+.ui.inverted.green.menu, .ui.inverted.menu .greycomp.active.item {
+    background-color: #5C5C5E;
+    border-left: #EF5F48 solid 5px;
+}
+/*Header and Menu CSS*/
+
+
+/*index page css*/
+.ui.vertical.tabular.menu.indexpage .active.item {
+    background:#F1F1F9!important;
+}
+.ui.vertical.tabular.menu .item {
+    border: 1px solid #DCDCE3!important;
+}
+#greycolumn {
+    background:#F1F1F9!important;
+    /*padding-left: 0px; */
+}
+#greycolumnone {
+    padding-right: 0px; 
+}
+
+#greycolumnone .ui.vertical.menu .item>i.icon{
+    float: left;
+}
+.ui.demos .ui.card, .ui.cards>.card{
+    background-color: transparent;
+    box-shadow:none;
+}
+#modalsbuttons {
+    background: #F9FAFB;
+    padding: 1rem;
+    border-top: 1px solid rgba(34,36,38,.15);
+    text-align: right;
+}
+.ui.menu .item>.label {
+    background-color: #e8e8f0;
+    color: #8A8686;
+}
+.greentxt {
+    color: #ABC0A5!important;
+}
+.ui.form .two.fields>.field {
+    width: 49%!important;
+}
+
+.ui.one.column.centered.grid.spaced {
+    width: 102%!important;
+}
+#salesrepdet label {
+    width: 170px;
+    font-weight: 300;
+    text-align: right;
+}
+/*#salesrepdet .column{
+    width: 32.333333%;
+}*/
+#salesrepdet .ui.segment {
+    background: transparent;
+    border:none;
+    box-shadow: none;
+}
+#salesrepdet .salesdate {
+    float: left!important;
+    text-align: left!important;
+}
+#statuscolumn .statusorg{
+    color: orange;
+}
+#statuscolumn .statusred{
+    color: red;
+}
+#statuscolumn .statusgreen{
+    color: green;
+}
+#addusersec {
+    margin-top: 10px;
+}
+#warehousesecone {
+    margin-bottom: 50px;
+}
+#salesteamcon {
+    margin-bottom: 20px;
+}
+#agentsteamcon {
+     margin-bottom: 20px;
+}
+#allteamcon{
+    margin-bottom: 50px;
+}
+#salesrepcon {
+    margin-bottom: 10px;
+}
+/*index page css*/
+
+
+
+
+
+
+    /**** ============================= ****
+        CSS FILE FOR ARPL
+    
+                12.09.2016 
+        ============================= 
+    Author - Kasun Wijesekara @Ghost0047 
+        ============================= 
+            
+TWC INNOVATIONS PVT LTD - twcinnovations.com
+
+    *** ============================= *****/
