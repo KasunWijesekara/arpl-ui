@@ -16,7 +16,7 @@
   <a class="greycomp item" data-tab="twelfth">Add New Customers</a>
   <a class="greycomp item" data-tab="thirteen">Assign Warehouse to Agent</a>
   <a class="greycomp item" data-tab="fourteen">View Cash Collections</a>
-  <a class="greycomp item" data-tab="fifteen">Agent Details</a>
+  <!-- <a class="greycomp item" data-tab="fifteen">Agent Details</a> -->
 </div><!-- side bar menu -->
 
 <div id="pusher" class="pusher"> <!-- closing div will be continuing on the body tag -->
